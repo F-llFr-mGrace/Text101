@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
+  m_Name: Context
+  m_EditorClassIdentifier: 
+  strStoryText: "\u201CA Brush With Death\u201D is a choose your own adventure style
+    game, your only inputs are the number keys to choose which branch (decision)
+    you wish to progress the story with. This game uses a checkpoint system, meaning
+    that if you die, you will be sent back to the last checkpoint screen you saw.\n\n1)
+    Continue."
+  nextState:
+  - {fileID: 11400000, guid: 6a7793ed41bd9344d8f67c937e42743f, type: 2}

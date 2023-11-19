@@ -10,7 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
-  m_Name: Context
+  m_Name: 12
   m_EditorClassIdentifier: 
-  strStoryText: Artil
-  nextState: []
+  strStoryText: 'You come across few abandoned houses in the middle of the woods.
+
+    
+
+    1)
+    Take refuge inside.
+
+    2) Keep going.
+
+'
+  nextState:
+  - {fileID: 11400000, guid: d90de3469cfbefd4eb306058d83f3da1, type: 2}
+  - {fileID: 11400000, guid: d90de3469cfbefd4eb306058d83f3da1, type: 2}

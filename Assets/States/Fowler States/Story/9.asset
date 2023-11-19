@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 991e68259cc4ec74d8df4f807e436ab2, type: 3}
+  m_Name: 9
+  m_EditorClassIdentifier: 
+  strStoryText: "The sounds of the soldiers screaming fills you with fear as you
+    run. You look around to take a head count of your squad-mates. Where\u2019s Miller?
+    He\u2019s probably just a little bit you. You ask your squad-mate how far you
+    should go; he says that the injured solider is losing blood quickly and needs
+    emergency care.\n\r\n1) Find a somewhat secluded space to patch up the injured
+    solider.\r\n2) Keep running and risk him dying.\r\n"
+  nextState:
+  - {fileID: 11400000, guid: 72051fefba8efe24693e60c46f3349b1, type: 2}
+  - {fileID: 11400000, guid: bcd07fe94f02f6e48b19742671edddf6, type: 2}

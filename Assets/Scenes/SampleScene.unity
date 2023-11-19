@@ -217,7 +217,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   txtComponent: {fileID: 636823683}
-  startingState: {fileID: 11400000, guid: 1844997728bc1754da33356344d3b9bb, type: 2}
+  startingState: {fileID: 11400000, guid: a5bb9012eaf04b94ca663e869f71bd79, type: 2}
 --- !u!4 &366934298
 Transform:
   m_ObjectHideFlags: 0
@@ -575,14 +575,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Placeholder story textPlaceholder story textPlaceholder story textPlaceholder
-    story textPlaceholder story textPlaceholder story textPlaceholder story textPlaceholder
-    story textPlaceholder story textPlaceholder story textPlaceholder story textPlaceholder
-    story textPlaceholder story textPlaceholder story textPlaceholder story textPlaceholder
-    story textPlaceholder story textPlaceholder story textPlaceholder story textPlaceholder
-    story textPlaceholder story textPlaceholder story textPlaceholder story textPlaceholder
-    story textPlaceholder story textPlaceholder story textPlaceholder story textPlaceholder
-    story text
+  m_Text: Placeholder story text
 --- !u!222 &636823684
 CanvasRenderer:
   m_ObjectHideFlags: 0
